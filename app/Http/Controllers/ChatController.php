@@ -27,6 +27,8 @@ class ChatController extends Controller
             ->latest()->limit(10)->get();
         $messages = $messag->reverse()->values();
 
+        //order from latest message
+
         $values = array();
         foreach ($messages as $message) {
             $info['message'] = $message['message'];

@@ -4,9 +4,9 @@
 </head>
 <body>
 <div>
-    Emailverified Successfully
+  Confirmed
 </div>
-<a href="http://localhost:53393/login">Click here to go to dahsboard</a>
+<a href="https://melosolutions.tech/login">Click here to go to dahsboard</a>
 </body>
 </html>
 

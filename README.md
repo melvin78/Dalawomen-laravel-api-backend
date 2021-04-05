@@ -2,7 +2,7 @@
 
 ## Chama Management System
 This is a fintech type of system built with laravel that acts as an api for a vue frontend
-that runs on nuxt [here](https://github.com/Dalawomen-vue-nuxt-frontend) .Its used to handle financial transactions that run in a SACCO group commonly known as 'chama' in Africa. visit the live website  [here](https://melosolutiions.tech).You can also google search melosolutions it will appear on the first page
+that runs on nuxt  .Its used to handle financial transactions that run in a SACCO group commonly known as 'chama' in Africa. visit the live website  [here](https://melosolutiions.tech).You can also google search melosolutions it will appear on the first page
 ,Since nuxt is SEO focused and is Server Side Rendered. It also implements websocket technology providing live updates
 to registered members.
 

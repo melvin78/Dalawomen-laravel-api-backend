@@ -20,9 +20,7 @@ This account has both administrator and treasurer privilleges. You can now send 
 Members can also chat with other members by searching for them and clicking on send message. Access control has also been implemented where only the treasurer
 and administrator have full access to the system.With the help of laravel policies and laravel spatie only authorised
 authenticated users can perform various functions.More on that can be found [here](https://melosolutions.tech/dalapage). MPESA integrations 
-will be added on future versions for now the make payment is still not functional. Need more info on the system 
-and would personally want to use the system email melvin11665@gmail.com. The repo is set to private for now.
-
+will be added on future versions for now the make payment is still not functional. 
 
 
 
